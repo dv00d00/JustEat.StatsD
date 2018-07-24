@@ -1,4 +1,5 @@
 using BenchmarkDotNet.Attributes;
+using BenchmarkDotNet.Attributes.Jobs;
 using JustEat.StatsD;
 using JustEat.StatsD.EndpointLookups;
 
